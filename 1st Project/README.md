@@ -26,6 +26,6 @@ I organized my work using a trello board. I wrote down all deliverables for the 
 
 ## Links
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
+[Repository](https://github.com/rebeccaestiarte/Project-Week-1-Build-Your-Own-Game)  
+[Slides](https://drive.google.com/open?id=1vWyceihtXIW4QQvnplP51Tm9xeD0PsAl)
 [Trello](https://trello.com/b/aoz5216D/project-1-build-your-own-game-rebecca)  
